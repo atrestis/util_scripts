@@ -1,0 +1,7 @@
+server: Service Provider 
+repo: repo_name
+project_key: if Bitbucket, provide DA or RDA
+token: your_token
+reviewers:
+  - rev1_username
+  - rev2_username
